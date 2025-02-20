@@ -1,1 +1,1 @@
-# simple-portfolio-websitr
+# simple-portfolio-website
